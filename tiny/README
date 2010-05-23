@@ -1,0 +1,13 @@
+World Stethoscope for ATtiny45
+
+This device converts the battery voltage to 5,000 Hz
+
+It uses AVRMacPac and AVRISK2 to build and download.
+http://www.obdev.at/products/crosspack/index.html
+
+If you set up correctly, just type:
+
+make install
+
+Wave output : PORTB3
+Sensor input : PORTB4
