@@ -1,0 +1,22 @@
+WorldStethoscope clones
+
+World-Stethoscope (http://swikis.ddo.jp/WorldStethoscope/1) is a device
+that translates verious physical phenomena to sound waves. Because
+almost all personal computers have a microphone input, it is easy and
+cheap way to connect your computer to outside world.
+
+These are software clones of World Stethoscope for AVR
+microprocessors. Each directory has source code for Arduino and ATtiny45
+respectively.
+
+- Tricorder/ for Arduino
+- tiny/ for ATtiny 45
+
+---
+
+世界聴診器クローン
+
+これは世界聴診器 (http://swikis.ddo.jp/WorldStethoscope/2) のソフトウェ
+アクローンです。arduino 用と ATtiny45 用が二つのディレクトリに分かれて
+入っています。
+

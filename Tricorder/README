@@ -1,0 +1,7 @@
+World Stethoscope for Arduino
+
+This device converts 5V to 5,000 Hz
+
+Wave output : DIGITAL 9
+Sensor input : ANALOG IN 1
+
